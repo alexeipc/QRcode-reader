@@ -19,6 +19,7 @@ namespace QRcode_reader
         {
             InitializeComponent();
         }
+
         FilterInfoCollection filterInfoCollection;
         VideoCaptureDevice captureDevice;
         private void Form1_Load(object sender, EventArgs e)
